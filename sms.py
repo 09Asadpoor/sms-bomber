@@ -240,7 +240,7 @@ def main():
 
         os.system("killall -HUP tor")
 
-        time.sleep(0.2)
+        time.sleep(0.5)
 
 if __name__ == "__main__":
 
