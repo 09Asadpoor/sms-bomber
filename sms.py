@@ -27,6 +27,7 @@ def snap(phone):
         else:
 
             print ("No!")
+            
 
     except:
 
