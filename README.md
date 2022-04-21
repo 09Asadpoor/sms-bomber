@@ -1,0 +1,1 @@
+This is the fast version of Bomber SMS.  It only has one drawback that it may not be able to send messages.  In the same repository, there is a quiet version where messages are sent more slowly, but they will definitely be sent.
